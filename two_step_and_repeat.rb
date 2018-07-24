@@ -40,7 +40,7 @@ x =  16
 loop do
 x % 2 = = 0
 if x equals zero then output left
- elsif output right
+elsif output right
 x + = 1
 break
 end 
