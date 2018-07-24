@@ -43,11 +43,11 @@ def how_many_steps?
       #if x is divisble by 2, then output left
       
       else 
-        output right
+        #output right
         puts "right"
-x += 1
-break
-end 
+      end
+      x += 1
+    end 
 end
 how_many_steps?
 
