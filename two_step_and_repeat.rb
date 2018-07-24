@@ -63,6 +63,7 @@ steps = 0
         else 
           #output right
           puts "right"
+          if steps equal 6 break
         end
       sleep(0.5)
     end 
