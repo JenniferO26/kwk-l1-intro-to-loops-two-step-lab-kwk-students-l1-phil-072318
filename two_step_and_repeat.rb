@@ -53,7 +53,20 @@ how_many_steps?
 
 
 def break_dance
-
+steps = 0
+    loop do
+      steps += 1
+      puts steps
+        if steps % 2 == 0 
+          puts "left"
+          #if steps is divisble by 2, then output left
+        else 
+          #output right
+          puts "right"
+        end
+      sleep(0.5)
+    end 
+end
 end
 break_dance
 
