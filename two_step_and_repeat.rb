@@ -35,12 +35,16 @@ def a_few_more_steps
 
 #step 3
 def how_many_steps?
-x = x(steps)
-x =  16
-loop do
-x % 2 == 0
-if x equals zero then output left
-elsif output right
+  x = x(steps)
+  x =  16
+    loop do
+     if x % 2 == 0 
+       puts "left"
+      #if x is divisble by 2, then output left
+      
+      else 
+        output right
+        puts "right"
 x += 1
 break
 end 
