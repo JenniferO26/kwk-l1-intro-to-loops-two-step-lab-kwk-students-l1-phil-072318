@@ -21,10 +21,9 @@ def first_steps
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
 loop until
-    puts "Right foot back"
-    sleep (1)
-    puts "Left foot back"
-    sleep (1)
+def a_few_more_steps
+  loop do
+    
     
 end
 
