@@ -21,9 +21,9 @@ def first_steps
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
   loop do
-    "Right foot steps right and back"
-    "Left foot crosses over right"
-    "Right foot steps right"
+  puts  "Right foot steps right and back"
+   puts  "Left foot crosses over right"
+   puts  "Right foot steps right"
     sleep(0.5)
     puts "Turn"
     sleep (1)
