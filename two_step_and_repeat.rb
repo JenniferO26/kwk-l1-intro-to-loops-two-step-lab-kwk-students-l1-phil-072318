@@ -53,7 +53,7 @@ how_many_steps?
 
 
 def break_dance
-steps = 0
+steps = 6
     loop do
       steps += 1
       puts steps
