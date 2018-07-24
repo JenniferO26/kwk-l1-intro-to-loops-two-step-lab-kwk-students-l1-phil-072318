@@ -36,9 +36,10 @@ def a_few_more_steps
 #step 3
 def how_many_steps?
 x = 0
-loop until
+loop do
 x % 2 = = 0
-if "x equals zero then " 
+if "x equals zero then output left" 
+ elsif "output right"
 x + = 1
 break
 end 
