@@ -26,6 +26,7 @@ def a_few_more_steps
     "Right foot steps right and back"
     "Left foot crosses over right"
     "Right foot steps right"
+    sleep(0.5)
     
     
 end
