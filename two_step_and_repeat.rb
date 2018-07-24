@@ -38,10 +38,10 @@ def how_many_steps?
 x = x(steps)
 x =  16
 loop do
-x % 2 = = 0
+x % 2 == 0
 if x equals zero then output left
 elsif output right
-x + = 1
+x += 1
 break
 end 
 end
