@@ -10,6 +10,14 @@ def first_steps
     sleep (1)
     puts "Left foot back"
     sleep (1)
+    puts "Right foot back"
+    sleep (1)
+    puts "Left foot back"
+    sleep (1)
+    puts "Right foot back"
+    sleep (1)
+    puts "Left foot back"
+    sleep (1)
     puts "Stop"
     break 
   end
