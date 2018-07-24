@@ -38,6 +38,7 @@ def how_many_steps?
   steps = 0
     loop do
       steps += 1
+      puts steps
         if steps % 2 == 0 
           puts "left"
           #if steps is divisble by 2, then output left
