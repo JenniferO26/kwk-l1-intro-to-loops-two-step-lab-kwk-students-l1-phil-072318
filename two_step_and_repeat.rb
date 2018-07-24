@@ -12,7 +12,7 @@ def first_steps
     sleep (1)
     puts "Stop"
     break 
-  end
+    end
 
 
 def a_few_more_steps
