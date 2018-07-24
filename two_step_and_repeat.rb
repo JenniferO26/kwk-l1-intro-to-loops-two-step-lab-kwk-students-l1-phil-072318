@@ -65,8 +65,21 @@ steps = 0
           puts "right"
         end
       sleep(0.5)
-      if steps is equal to 6 break
     end 
+    steps = 0
+    loop do
+      steps += 1
+      puts steps
+        if steps % 2 == 0 
+          puts "left"
+          #if steps is divisble by 2, then output left
+        else 
+          #output right
+          puts "right"
+        end
+      sleep(0.5)
+    end 
+    if steps is equal to 6 break
 end
 break_dance
 
