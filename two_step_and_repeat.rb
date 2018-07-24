@@ -65,7 +65,6 @@ steps = 0
           puts "right"
         end
       sleep(0.5)
-      if steps is equal to six 
     end 
 end
 end
