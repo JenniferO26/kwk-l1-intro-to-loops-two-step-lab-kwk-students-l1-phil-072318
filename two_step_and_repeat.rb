@@ -45,7 +45,7 @@ def how_many_steps?
           #output right
           puts "right"
         end
-      sleep(.5)
+      sleep(0.5)
     end 
 end
 how_many_steps?
