@@ -23,6 +23,9 @@ def a_few_more_steps
 loop until
 def a_few_more_steps
   loop do
+    "Right foot steps right and back"
+    "Left foot crosses over right"
+    "Right foot steps right"
     
     
 end
