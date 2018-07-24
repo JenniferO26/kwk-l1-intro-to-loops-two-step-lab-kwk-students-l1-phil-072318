@@ -21,7 +21,7 @@ def first_steps
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
 loop until
-def a_few_more_steps
+def 
   loop do
     "Right foot steps right and back"
     "Left foot crosses over right"
