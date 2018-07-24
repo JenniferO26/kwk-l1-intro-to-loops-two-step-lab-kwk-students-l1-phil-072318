@@ -37,7 +37,7 @@ def a_few_more_steps
 def how_many_steps?
 x = 0
 loop until
-
+puts "Left"
 
 x + = 1
 
