@@ -65,6 +65,7 @@ steps = 0
           puts "right"
         end
       sleep(0.5)
+      if steps is equal to 6 break
     end 
 end
 break_dance
