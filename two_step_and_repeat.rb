@@ -27,9 +27,12 @@ def a_few_more_steps
     "Left foot crosses over right"
     "Right foot steps right"
     sleep(0.5)
-    
-    
-end
+    puts "Turn"
+    sleep (1)
+    break
+    end 
+    end
+    a_few_more_steps
 
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
