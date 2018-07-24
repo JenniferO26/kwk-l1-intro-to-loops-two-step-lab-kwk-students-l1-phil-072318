@@ -33,14 +33,13 @@ def a_few_more_steps
     a_few_more_steps
 
 
-
+#step 3
 def how_many_steps?
 x = 0
 loop until
-puts "Left"
-
+x % 2 = = 0
+if "x equals zero then " 
 x + = 1
-
 break
 end 
 end
